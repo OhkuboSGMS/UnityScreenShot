@@ -6,7 +6,7 @@ UniRxとシングルトンを用いたScreenShotのスクリプトです
 ScreenShot.unitypackageをUnityのプロジェクトを開いた状態で、クリックして開いてください、Import画面が出ます
 .unitypackage内に　サンプルシーン[Sample]がありますのでそちらの方を参照してください
 
-![inspector](http://imgur.com/bT7n8xd)
+![inspector](http://i.imgur.com/bT7n8xd.jpg)
 
 Screen Shot(Script)
 
