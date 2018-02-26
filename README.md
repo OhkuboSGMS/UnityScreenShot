@@ -2,7 +2,8 @@
 Super Small UnityPackage for ScreenShot
 UniRxとシングルトンを用いたScreenShotのスクリプトです  
 
-*依存関係 *:UniRX
+### 依存関係
+ * UniRX
 # How To Use
 ScreenShot.unitypackageをUnityのプロジェクトを開いた状態で、クリックして開いてください、Import画面が出ます
 .unitypackage内に　サンプルシーン[Sample]がありますのでそちらの方を参照してください
